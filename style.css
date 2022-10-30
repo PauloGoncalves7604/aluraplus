@@ -22,7 +22,7 @@ body{
 
 .principal{
 	align-items: center;
-	background-image: url("img/background.png");
+	background-image: url("img/Background.png");
 	background-repeat: no-repeat;
 	background-size: contain;/*contain preechimento do conteudo da section*/
 	text-align: center;/*alinha todo o elemento do bloco que está contido no container*/
